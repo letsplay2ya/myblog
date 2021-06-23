@@ -1,6 +1,6 @@
-#NumPy 기초 연습
+# NumPy 기초 연습
 
-##NumPy 설치
+## NumPy 설치
 
 
 ```python
@@ -13,14 +13,14 @@ conda install numpy
 pip install numpy
 ```
 
-##NumPy 가져오기
+## NumPy 가져오기
 
 
 ```python
 import numpy as np
 ```
 
-##어레이란?
+## 어레이란?
 
 
 ```python
@@ -31,9 +31,9 @@ print(a[0])
     [1 2 3 4]
     
 
-##기본 배열
+## 기본 배열
 
-###zeros 0으로 채워진 배열
+### zeros 0으로 채워진 배열
 
 
 ```python
@@ -47,7 +47,7 @@ np.zeros(2)
 
 
 
-###ones 1로 채워진 배열
+### ones 1로 채워진 배열
 
 
 ```python
@@ -61,7 +61,7 @@ np.ones(2)
 
 
 
-###empty 무작위로 채워진 배열
+### empty 무작위로 채워진 배열
 
 
 ```python
