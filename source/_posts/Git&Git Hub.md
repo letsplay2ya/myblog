@@ -1,5 +1,6 @@
-title: Hexo Blog 생성으로 Git Hub 기초 배우기
-
+---
+title: "Hexo Blog 생성으로 Git Hub 기초 배우기"
+---
 ![github](../images/img.png)
 
 # 개요
